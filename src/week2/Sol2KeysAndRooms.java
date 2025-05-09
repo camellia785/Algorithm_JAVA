@@ -2,7 +2,7 @@ package week2;
 
 import java.util.List;
 
-public class sol2KeysAndRooms {
+public class Sol2KeysAndRooms {
     public boolean canVisitAllRooms(List<List<Integer>> rooms){
         int n = rooms.size(); // 방의 총 개수 정의
         boolean[] visited = new boolean[n]; // (1)각 방의 방문 여부 기록!!!

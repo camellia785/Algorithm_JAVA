@@ -2,7 +2,7 @@ package week2;
 
 import java.util.*;
 
-class sol3FurthestNode {
+class Sol3FurthestNode {
     public int solution(int n, int[][] edge) {
 
         // (1) 각 노드의 인접 노드를 저장할 리스트 배열 : 2차원

@@ -1,6 +1,6 @@
 package week2;
 
-public class sol1Network {
+public class Sol1Network {
 
     // (1) 컴퓨터 개수와 연결상태-2차원배열을 받는 함수
     public int solution(int n, int[][] computers){
